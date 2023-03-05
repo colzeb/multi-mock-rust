@@ -1,0 +1,5 @@
+[DATABASE]
+url = "sqlite://test.sqlite"
+
+[env]
+DATABASE_URL = "sqlite://test.sqlite"
